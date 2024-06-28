@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  width: 100%;
+  position: fixed;
+}
+
+#btn_trocar {
+  width: 30px;
+  height: 150px;
+  z-index: 3;
+  margin-top: 5%;
+  margin-left: 40%;
+  position: absolute;
+  background-color: #e7e6e6;
+  border-radius: 20px;
+  border-style: none;
+  cursor: pointer;
+}
+
+#tela {
+  max-width: 292px;
+  max-height: 173px;
+  position: absolute; 
+  margin-top: 13%;
+  margin-left: 55.8%;
+}
